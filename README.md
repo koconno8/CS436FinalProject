@@ -2,6 +2,7 @@
 Updating the paper: Guided Adversarial Attack for Evaluating and Enhancing Adversarial Defenses
 
 Team Members GitHubs and contributions:
+
 Jerry Lai - JerryLai7
 - Wrote the abstract for our paper. Gave an introduction into everything we mentioned in our paper, and compared our work to other works.
 
